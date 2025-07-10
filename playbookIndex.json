@@ -1,7 +1,7 @@
 [
   {
     "label": "PMF Narrative",
-    "file": "pmf-narrative.md"
+    "file": "pmf-narrative.md",
     "children": [
       { "label": "Value Proposition", "file": "value-proposition.md" }
     ]

@@ -1,0 +1,14 @@
+[
+  {
+    "label": "PMF Narrative",
+    "file": "pmf-narrative.md",
+    "children": [
+      { "label": "Problem To Solve", "file": "problem-to-solve.md" },
+      { "label": "Target Audience", "file": "target-audience.md" }
+    ]
+  },
+  {
+    "label": "Validation",
+    "file": "validation.md"
+  }
+]
